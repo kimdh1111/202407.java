@@ -17,7 +17,7 @@ display: flex;
 justify-content: center;
 align-items: center;
 min-height: 100vh;
-background: url('image1.jpg');
+background: url('img/image2.jpg');
 background-size: 2000px 1200px;
 background-position: center;
 }
@@ -82,7 +82,9 @@ cursor: pointer;
 }
 .register-link p a:hover{
 text-decoration: underline;
+
 }
+
 </style>
 <meta charset="UTF-8">
 <title>Insert title here</title>
@@ -130,7 +132,8 @@ text-decoration: underline;
 				   onclick="location.href='member_join_form.jsp'">
 			<div class="register-link">
 				<a href="index.jsp">홈페이지</a>
-			</div>   				
+			</div> 
+						
 		</form>
 	</div>
 <%

@@ -16,7 +16,7 @@ display: flex;
 justify-content: center;
 align-items: center;
 min-height: 100vh;
-background: url('image1.jpg');
+background: url('img/image2.jpg');
 background-size: 2000px 1200px;
 background-position: center;
 }
